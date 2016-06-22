@@ -1,0 +1,43 @@
+.padding{
+  padding-top:50px;
+}
+div {
+  font-family: calibri;
+  color: white;
+}
+
+.image1 {
+  background-image: url("https://images.unsplash.com/photo-1432821579285-1b649e5b1ce3?crop=entropy&fit=crop&fm=jpg&h=950&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1925");
+  background-size: cover;
+  height: 1000px;
+  background-repeat: no-repeat;
+}
+
+.image2 {
+  background-image: url("https://images.unsplash.com/reserve/6HJtLkJSDqjqlE2NipEu_macbook.jpg?crop=entropy&fit=crop&fm=jpg&h=950&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1925");
+  background-size: cover;
+  height: 1000px;
+  background-repeat: no-repeat;
+}
+
+.image3 {
+  background-image: url("https://images.unsplash.com/photo-1452800185063-6db5e12b8e2e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=c20edde459d588310aa3dd6a7d7d5446");
+  background-size: cover;
+  height: 750px;
+  background-repeat: no-repeat;
+}
+
+.image4 {
+  background-image: url("https://images.unsplash.com/photo-1451417379553-15d8e8f49cde?crop=entropy&fit=crop&fm=jpg&h=1375&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2400");
+  background-size: cover;
+  height: 1000px;
+  background-repeat: no-repeat;
+}
+
+.smaller-image {
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+  padding-top: 20px;
+}
+
